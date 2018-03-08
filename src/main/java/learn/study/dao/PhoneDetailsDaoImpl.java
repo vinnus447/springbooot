@@ -21,8 +21,8 @@ public class PhoneDetailsDaoImpl implements PhoneDetailsDao {
 
         phoneDetails=new HashMap<String,phone>() {
             {
-                put("9440341739", new phone("srinivas", "kanakala", "9440341739", "08842323776", "abc@gmail.com", "M", "AUG", "15", "1985", "rice", "Business"));
-                put("9912978759", new phone("laxman", "rao", "9912978759", "08842323776", "abc@gmail.com", "M", "AUG", "15", "1985", "rice", "Business"));
+                put("xxxxxxxxxxx", new phone("srinivas", "kanakala", "xxxxxxxxxxx", "xxxxxxxxxxx", "abc@gmail.com", "M", "AUG", "15", "1985", "rice", "Business"));
+                put("xxxxxxxxxxx", new phone("laxman", "rao", "xxxxxxxxxxx", "xxxxxxxxxxx", "abc@gmail.com", "M", "AUG", "15", "1985", "rice", "Business"));
             }
         };
     }
